@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kumarrishi2006/Leetcode/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/kumarrishi2006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kumarrishi2006/Leetcode/tree/master/0525-contiguous-array) |
@@ -51,4 +52,12 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/kumarrishi2006/Leetcode/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/kumarrishi2006/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
