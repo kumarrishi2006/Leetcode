@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kumarrishi2006/Leetcode/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/kumarrishi2006/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -66,10 +67,15 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0015-3sum) |
 | [0986-interval-list-intersections](https://github.com/kumarrishi2006/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/kumarrishi2006/Leetcode/tree/master/0986-interval-list-intersections) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
