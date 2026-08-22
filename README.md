@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kumarrishi2006/Leetcode/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/kumarrishi2006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kumarrishi2006/Leetcode/tree/master/0056-merge-intervals) |
 ## Quicksort
 |  |
@@ -64,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0015-3sum) |
 | [0986-interval-list-intersections](https://github.com/kumarrishi2006/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
