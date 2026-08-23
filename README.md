@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/kumarrishi2006/Leetcode/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/kumarrishi2006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -22,6 +23,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarrishi2006/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -69,6 +71,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0986-interval-list-intersections](https://github.com/kumarrishi2006/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -78,4 +81,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
