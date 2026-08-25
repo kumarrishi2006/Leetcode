@@ -12,6 +12,7 @@
 | [0523-continuous-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kumarrishi2006/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarrishi2006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kumarrishi2006/Leetcode/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarrishi2006/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarrishi2006/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0344-reverse-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
