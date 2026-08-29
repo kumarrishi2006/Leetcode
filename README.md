@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/kumarrishi2006/Leetcode/tree/master/0056-merge-intervals) |
+| [0209-minimum-size-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kumarrishi2006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -47,6 +48,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kumarrishi2006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kumarrishi2006/Leetcode/tree/master/0525-contiguous-array) |
@@ -103,6 +105,11 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarrishi2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
