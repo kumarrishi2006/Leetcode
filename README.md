@@ -82,6 +82,7 @@
 | [0015-3sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/kumarrishi2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0344-reverse-string) |
 | [0986-interval-list-intersections](https://github.com/kumarrishi2006/Leetcode/tree/master/0986-interval-list-intersections) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -125,10 +127,12 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
