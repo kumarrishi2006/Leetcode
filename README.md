@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kumarrishi2006/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/kumarrishi2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kumarrishi2006/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarrishi2006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +64,7 @@
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kumarrishi2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Sorting
 |  |
@@ -80,6 +82,7 @@
 | [0015-3sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/kumarrishi2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0344-reverse-string) |
 | [0986-interval-list-intersections](https://github.com/kumarrishi2006/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/kumarrishi2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -125,4 +129,12 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0143-reorder-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kumarrishi2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kumarrishi2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
