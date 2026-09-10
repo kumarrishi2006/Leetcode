@@ -21,6 +21,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarrishi2006/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarrishi2006/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/kumarrishi2006/Leetcode/tree/master/0986-interval-list-intersections) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kumarrishi2006/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarrishi2006/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kumarrishi2006/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Queue
 |  |
 | ------- |
