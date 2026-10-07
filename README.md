@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/kumarrishi2006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kumarrishi2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/kumarrishi2006/Leetcode/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kumarrishi2006/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarrishi2006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kumarrishi2006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/kumarrishi2006/Leetcode/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/kumarrishi2006/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarrishi2006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -107,11 +109,13 @@
 | [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kumarrishi2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumarrishi2006/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
