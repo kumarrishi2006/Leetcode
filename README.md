@@ -25,6 +25,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarrishi2006/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/kumarrishi2006/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kumarrishi2006/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kumarrishi2006/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0503-next-greater-element-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kumarrishi2006/Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kumarrishi2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kumarrishi2006/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0496-next-greater-element-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kumarrishi2006/Leetcode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kumarrishi2006/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
 | ------- |
