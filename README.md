@@ -115,6 +115,7 @@
 | [0496-next-greater-element-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kumarrishi2006/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kumarrishi2006/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kumarrishi2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kumarrishi2006/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -124,6 +125,7 @@
 | [0496-next-greater-element-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kumarrishi2006/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/kumarrishi2006/Leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kumarrishi2006/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
@@ -166,4 +168,12 @@
 | [0142-linked-list-cycle-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kumarrishi2006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/kumarrishi2006/Leetcode/tree/master/0457-circular-array-loop) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kumarrishi2006/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/kumarrishi2006/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
