@@ -19,6 +19,7 @@
 | [0525-contiguous-array](https://github.com/kumarrishi2006/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarrishi2006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/kumarrishi2006/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/kumarrishi2006/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kumarrishi2006/Leetcode/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarrishi2006/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -114,6 +115,7 @@
 | [0234-palindrome-linked-list](https://github.com/kumarrishi2006/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/kumarrishi2006/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kumarrishi2006/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kumarrishi2006/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kumarrishi2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/kumarrishi2006/Leetcode/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/kumarrishi2006/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
