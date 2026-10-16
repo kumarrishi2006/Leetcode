@@ -40,6 +40,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kumarrishi2006/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -51,6 +52,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarrishi2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kumarrishi2006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/kumarrishi2006/Leetcode/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/kumarrishi2006/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -134,6 +136,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarrishi2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kumarrishi2006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kumarrishi2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
@@ -182,4 +185,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kumarrishi2006/Leetcode/tree/master/0682-baseball-game) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
