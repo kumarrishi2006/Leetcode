@@ -54,6 +54,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/kumarrishi2006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kumarrishi2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/kumarrishi2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kumarrishi2006/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kumarrishi2006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -88,6 +89,7 @@
 | [0015-3sum](https://github.com/kumarrishi2006/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kumarrishi2006/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/kumarrishi2006/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kumarrishi2006/Leetcode/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarrishi2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/kumarrishi2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kumarrishi2006/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
