@@ -28,6 +28,7 @@
 | [0986-interval-list-intersections](https://github.com/kumarrishi2006/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kumarrishi2006/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kumarrishi2006/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/kumarrishi2006/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0525-contiguous-array](https://github.com/kumarrishi2006/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kumarrishi2006/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kumarrishi2006/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/kumarrishi2006/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0056-merge-intervals](https://github.com/kumarrishi2006/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/kumarrishi2006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kumarrishi2006/Leetcode/tree/master/0242-valid-anagram) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/kumarrishi2006/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Quicksort
 |  |
 | ------- |
@@ -198,4 +201,5 @@
 | ------- |
 | [0383-ransom-note](https://github.com/kumarrishi2006/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarrishi2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/kumarrishi2006/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
